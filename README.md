@@ -38,7 +38,7 @@ For commercial use without attribution, contact me to discuss terms.
 ---
 
 ## 🚀 Live Demo
-👉 [hexipalt.netlify.app](https://hexipalt.netlify.app)  
+👉 https://hexpalt.netlify.app
 
 ---
 
